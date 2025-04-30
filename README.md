@@ -14,3 +14,7 @@ Key Analysis and Features:
 3. Sorting and ranking posts by Views, Likes, Shares, Comments, and custom scores.
 4. Predictive modeling using a pre-trained machine learning model (`models/engagement_model.pkl`) for future engagement forecasts.
 5. Interactive visualizations using Plotly to explore trends and comparative insights.
+
+## Footer
+
+© 2025 Girish Shenoy.
