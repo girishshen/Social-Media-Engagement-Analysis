@@ -64,16 +64,16 @@ The dataset is sourced from Kaggle:  [Viral Social Media Trends and Engagement A
 ## 🧠 **Predictive Models**
 
 - **Engagement Model** (`models/engagement_model.pkl`):  
-  Predicts post engagement level (low, medium, or high) based on likes, shares, comments, and views.
+  - Predicts post engagement level (low, medium, or high) based on likes, shares, comments, and views.
 
 - **Virality Model** (`models/virality_model.pkl`):  
-  Classifies whether a post is likely to go viral or not.
+  - Classifies whether a post is likely to go viral or not.
 
 - **Engagement Scaler** (`models/engagement_scaler.pkl`):  
-  Scales input data (likes, shares, comments, views) for the engagement model.
+  - Scales input data (likes, shares, comments, views) for the engagement model.
 
 - **Virality Scaler** (`models/virality_scaler.pkl`):  
-  Scales input data (likes, shares, comments, views) for the virality model.
+  - Scales input data (likes, shares, comments, views) for the virality model.
 
 ---
 
