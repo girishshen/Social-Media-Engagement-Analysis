@@ -21,8 +21,7 @@ This project aims to conduct **interactive filtering, exploration**, and **predi
 
 ## 📊 **Dataset Attribution**
 
-The dataset is sourced from Kaggle:  
-[Viral Social Media Trends and Engagement Analysis](https://www.kaggle.com/datasets/atharvasoundankar/viral-social-media-trends-and-engagement-analysis)
+The dataset is sourced from Kaggle:  [Viral Social Media Trends and Engagement Analysis](https://www.kaggle.com/datasets/atharvasoundankar/viral-social-media-trends-and-engagement-analysis)
 
 - **Raw data** is located in `data/raw/`
 - **Cleaned data** is in `data/cleaned/`
