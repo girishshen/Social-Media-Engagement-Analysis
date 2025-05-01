@@ -95,7 +95,6 @@ For detailed EDA, methodology, and modeling, see `Analysis.ipynb`.
  
 4. **Open a browser and visit http://localhost:5000 to interact with the app.**
 
-
-## Footer
+---
 
 © 2025 Girish Shenoy.
