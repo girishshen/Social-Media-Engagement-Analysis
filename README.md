@@ -77,23 +77,7 @@ The dataset is sourced from Kaggle:  [Viral Social Media Trends and Engagement A
 
 ---
 
-For detailed EDA, methodology, and modeling, see `Analysis.ipynb`.
-
----
-
-## 🚀 **Running the App Locally**
-
-1. **Clone this repository:**
-   git clone https://github.com/girishshen/Social-Media-Engagement-Analysis.git
-   cd Social-Media-Engagement-Analysis
-
-2. **Install dependencies:**
-   pip install -r requirements.txt
-
-3. **Run the Flask app:**
-   python app.py
- 
-4. **Open a browser and visit http://localhost:5000 to interact with the app.**
+For detailed EDA, methodology, and modeling, see `Social_Media_Engagement_Analytics_99per.ipynb`.
 
 ---
 
